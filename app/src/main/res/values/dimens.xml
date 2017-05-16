@@ -1,3 +1,4 @@
 <resources>
     <dimen name="settings_padding">10dp</dimen>
+    <dimen name="tips_title_text_size">45sp</dimen>
 </resources>
